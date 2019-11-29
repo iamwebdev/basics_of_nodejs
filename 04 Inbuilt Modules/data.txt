@@ -1,0 +1,1 @@
+Hello i am reading data from file.
